@@ -1,5 +1,9 @@
-one function - I have added a one function
+one function - I have ver very added a one function
 two function- I have adde two function.
 three- I have added thre function
 
 I have added a chart
+
+
+
+added a logout
